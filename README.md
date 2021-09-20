@@ -1,5 +1,4 @@
-### Hi , This is CanYingisme's Github
-<h1 align="center">CanYingisme</h1>
+<h1 align="center">Hey I'm CanYingisme</h1>
 
 <!--
 **CanYingisme-Git/CanYingisme-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
