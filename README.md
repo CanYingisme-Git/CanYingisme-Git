@@ -4,9 +4,11 @@ I'm a student
 
 -   :Language: Java,Kotlin  
 -   :What games do I play?: Minecraft,Factorio,CSGO  
--   :What do I do? : Cheating software,Minecraft Plugin/Mod/Client  
+-   :What do I do? : Cheating software,Minecraft Plugin/Mod/Client,QQ Bot
 -   :What do I use? : Spongepowered Mixin,Cheat Engine,IntelliJ IDEA  
 -   :Sex : Unknown🤔  
+-   :My blog : [In The Shadow](https://blog.nya.al)
+
 <!--
 **CanYingisme-Git/CanYingisme-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
