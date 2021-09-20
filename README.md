@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm CanYingisme</h1>
+<h1 align="center">Hey I'm CanYingisme <img src="https://img.shields.io/badge/Language-Java-orange" alt="website"/></h1>
 
 <!--
 **CanYingisme-Git/CanYingisme-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
