@@ -8,6 +8,7 @@ I'm a student
 -   :What do I use? : Spongepowered Mixin,Cheat Engine,IntelliJ IDEA  
 -   :Sex : Unknown🤔  
 -   :My blog : [In The Shadow](https://blog.nya.al)
+-   Trying learn Machine code
 
 <!--
 **CanYingisme-Git/CanYingisme-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
