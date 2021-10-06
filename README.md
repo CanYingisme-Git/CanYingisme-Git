@@ -2,7 +2,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=canyingisme-git&theme=dark&show_icons=true">
 I'm a student  
 
--   :Language: Java,Kotlin  
+-   :Language: Java,Kotlin,Rust 
 -   :What games do I play?: Minecraft,Factorio,CSGO  
 -   :What do I do? : Cheating software,Minecraft Plugin/Mod/Client,QQ Bot
 -   :What do I use? : Spongepowered Mixin,Cheat Engine,IntelliJ IDEA  
