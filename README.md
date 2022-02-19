@@ -9,6 +9,7 @@ I'm a student
 -   :Sex : Unknown🤔  
 -   :My blog : [In The Shadow](https://blog.nya.al)
 -   Trying learn Machine code
+-   My Email:admin@nya.al
 
 <!--
 **CanYingisme-Git/CanYingisme-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
